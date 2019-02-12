@@ -8,7 +8,7 @@ This is all of the things about the book Learn C The Hard Way.
 - [Sublime Text](https://www.sublimetext.com/)
 - [TextMate](https://macromates.com/)
 - [Notepad++](https://notepad-plus-plus.org/)
-
+- [Vim](https://www.vim.org/)
 
 # Reference
 
