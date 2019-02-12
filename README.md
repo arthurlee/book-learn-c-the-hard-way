@@ -1,7 +1,7 @@
 Book - Learn C The Hard Way
 ==============================
 
-This is all the things about the book Learn C The Hard Way.
+This is all of the things about the book Learn C The Hard Way.
 
 # Editors
 - [Visual Studio Code](https://code.visualstudio.com/)
