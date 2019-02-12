@@ -69,7 +69,7 @@ Exercise 32 | Double Linked Lists | [Ex32](https://learning.oreilly.com/videos/l
 Exercise 33 | Linked List Algorithms | [Ex33](https://learning.oreilly.com/videos/learn-c-the/9780134434452/9780134434452-LCTHW_Ex33)
 习题33 | 链表算法 | [Ex33(中文字幕)](http://ewm.ptpress.com.cn:8085/preview?qrCode=qr2018001510&verified=true)
 Exercise 34 | Dynamic Array | [Ex34](https://learning.oreilly.com/videos/learn-c-the/9780134434452/9780134434452-LCTHW_Ex34)
-习题34 | 动态数组 | [视Ex34频(中文字幕)](http://ewm.ptpress.com.cn:8085/preview?qrCode=qr2018001509&verified=true)
+习题34 | 动态数组 | [Ex34(中文字幕)](http://ewm.ptpress.com.cn:8085/preview?qrCode=qr2018001509&verified=true)
 Exercise 35 | Sorting and Searching | [Ex35](https://learning.oreilly.com/videos/learn-c-the/9780134434452/9780134434452-LCTHW_Ex35)
 习题35 | 排序和搜索 | [Ex35(中文字幕)](http://ewm.ptpress.com.cn:8085/preview?qrCode=qr2018001508&verified=true)
 Exercise 36 | Safer Strings | [Ex36](https://learning.oreilly.com/videos/learn-c-the/9780134434452/9780134434452-LCTHW_Ex36)
